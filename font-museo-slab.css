@@ -8,3 +8,14 @@
   font-weight: bold;
   font-style: normal;
 }
+
+@font-face {
+  font-family: 'museo_cyrl';
+  src: url('MuseoCyrl_500-webfont.eot');
+    src: url('MuseoCyrl_500-webfont.eot?#iefix') format('embedded-opentype'),
+         url('MuseoCyrl_500-webfont.woff') format('woff'),
+         url('MuseoCyrl_500-webfont.ttf') format('truetype'),
+         url('MuseoCyrl_500-webfont.svg#museo_cyrl_500regular') format('svg');
+  font-weight: bold;
+  font-style: normal;
+}
